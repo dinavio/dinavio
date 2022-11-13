@@ -1,6 +1,4 @@
 # Hi 👋, I'm Dina Violina ![](https://visitor-badge.glitch.me/badge?page_id=dinavio.dinavio)
-🌱 I’m currently learning **Web Development**<br />
-🙃 I'm currently working on something cool! <br />
 
 <div style='text-align:center'>
     <a href="#" title="Stats">
